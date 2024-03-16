@@ -1,0 +1,7 @@
+C:\проэкты\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe.config
+C:\проэкты\OnlineStore\OnlineStore\bin\Debug\OnlineStore.exe
+C:\проэкты\OnlineStore\OnlineStore\bin\Debug\OnlineStore.pdb
+C:\проэкты\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.AssemblyReference.cache
+C:\проэкты\OnlineStore\OnlineStore\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\проэкты\OnlineStore\OnlineStore\obj\Debug\OnlineStore.exe
+C:\проэкты\OnlineStore\OnlineStore\obj\Debug\OnlineStore.pdb
