@@ -21,13 +21,13 @@ namespace OnlineStore
 
             Cart cart = shop.Cart();
             cart.Add(iPhone12, 4);
-            cart.Add(iPhone11, 3); //при такой ситуации возникает ошибка так, как нет нужного количества товара на складе
+            cart.Add(iPhone11, 3);
 
             cart.ShowProductsCart();
 
             Console.WriteLine(cart.Order().Paylink);
 
-            cart.Add(iPhone12, 9); //Ошибка, после заказа со склада убираются заказанные товары
+            cart.Add(iPhone12, 9); 
         }
     }
 
